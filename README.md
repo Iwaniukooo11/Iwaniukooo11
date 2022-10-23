@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mateusz Iwaniuk</h1>
+<h1 align="center">Hi I'm Mateusz Iwaniuk</h1>
 <h3 align="center">Data Science Student at Warsaw University of Technology</h3>
 
-- 🔭 I used to work on **Frontend | Backend | Mobile apps**
+- I used to work on **Frontend | Backend | Mobile apps**
 
-- 🌱 I’m currently learning **Math, Statistics, AI Theory**
+- I’m currently learning **Math, Statistics, AI Theory**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- I’m looking for help with **Machine Learning**
 
-- 📫 How to reach me **mateusz.iwaniuk11@gmail.com**
+- How to reach me **mateusz.iwaniuk11@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
