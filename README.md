@@ -3,7 +3,7 @@
 <br/>
   
 
--  I’m currently learning R | Python | Linear Algebra | Math  
+-  I’m currently learning R | Python | Linear Algebra | Graph Theory | Math  
   
 
 -  I used to work on Frontend / Backend  
