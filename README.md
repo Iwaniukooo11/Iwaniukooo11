@@ -47,9 +47,10 @@
 <img src="https://www.sympy.org/static/images/logo.png" height="50"  style="margin: 10px" alt="sympy logo"  /> </a>
   <a href="https://www.numpy.org" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin: 10px" alt="numpy logo"  /> </a>
-</div>
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="margin: 10px" height="50"/> </a>
+  </div>
 
 </td><td valign="top" width="33%">
 
