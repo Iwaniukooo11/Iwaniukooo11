@@ -41,18 +41,28 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="margin: 10px"  height="50"/> </a> 
+  <a href="https://www.sympy.org" rel="noreferrer"> 
+<img src="https://www.sympy.org/static/images/logo.png" height="50"  style="margin: 10px" alt="sympy logo"  /> </a>
+  <a href="https://www.numpy.org" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin: 10px" alt="numpy logo"  /> </a>
 </div>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="margin: 10px" height="50"/> </a>
 
 </td><td valign="top" width="33%">
 
 
 
-### Others  
+### Other 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+  <a href="https://www.java.com/en/" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin: 10px" alt="java logo"  /> </a> 
 </div>
 
 </td></tr></table>  
