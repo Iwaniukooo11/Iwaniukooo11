@@ -1,13 +1,12 @@
 ### <h1 align="center">Hi, I'm Mateusz Iwaniuk - Data Science student at Warsaw University of Technology</h1>  
 
 <br/>
-  
 
--  I’m currently learning R | Python | Linear Algebra | Graph Theory | Math  
-  
+-  I currently work as: Data Analysis & Automation Summer Intern 2023 | AstraZeneca
 
--  I used to work on Frontend / Backend  
-  
+
+-  Currently learning R | Python | Linear Algebra | Graph Theory | Math  
+   
 
 - How to reach me: mateusz.iwaniuk11@gmail.com  
   
