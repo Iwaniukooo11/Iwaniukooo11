@@ -2,10 +2,10 @@
 
 <br/>
 
--  I currently work as: Data Analysis & Automation Summer Intern 2023 | AstraZeneca
+-  I work as: Data Analysis & Automation Summer Intern 2023 | AstraZeneca
 
 
--  Currently learning R | Python | Linear Algebra | Graph Theory | Math  
+-  Currently learning: R | Python | Linear Algebra | Graph Theory | Math  
    
 
 - How to reach me: mateusz.iwaniuk11@gmail.com  
