@@ -4,11 +4,11 @@
 
 - I work as: Data Analysis & Automation  | AstraZeneca
 
-- Technologies: R, ggplot, Power BI, Power Automate, Power Apps
+- Technologies: R, ggplot, Python, Power BI, Power Automate, Power Apps
 
 - Keen on: Linear algebra, Calculus, Graph theory
 
-- Currently learning: Probability, Statistics, Numerical Methods 
+- Currently learning: Probability, Statistics, Numerical Methods, Advanced OOP
    
 
 - How to reach me: mateusz.iwaniuk11@gmail.com  
