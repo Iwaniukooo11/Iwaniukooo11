@@ -2,10 +2,13 @@
 
 <br/>
 
--  I work as: Data Analysis & Automation Summer Intern 2023 | AstraZeneca
+- I work as: Data Analysis & Automation  | AstraZeneca
 
+- Technologies: R, ggplot, Power BI, Power Automate, Power Apps
 
--  Currently learning: R | Python | Linear Algebra | Graph Theory | Math  
+- Keen on: Linear algebra, Calculus, Graph theory
+
+- Currently learning: Probability, Statistics, Numerical Methods 
    
 
 - How to reach me: mateusz.iwaniuk11@gmail.com  
