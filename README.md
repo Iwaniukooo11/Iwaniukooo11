@@ -13,19 +13,19 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 |---------|-------------|-----------------|
 | **[Quantum RAG](https://github.com/Iwaniukooo11/QuantumRAG)** | Quantum-enhanced information retrieval system using Grover's algorithm | Qiskit, Hugging Face |
 | **[Computional Intelligence Algorithms](https://github.com/Iwaniukooo11/computional-intelligence-algorithms)** | MLP / KOH / Genetic Algs implemented from scratch | Python, NumPy |
-| **[ML Diabetes Prediction](https://github.com/Iwaniukooo11/ml-diabetes-prediction)** | Medical risk assessment model with SHAP interpretability | tech stack |
-| **[Pneumonia Detection](https://github.com/Iwaniukooo11/deep-learning_x-ray-images-pneumonia)** | CNN/Traditional Ml based diagnosis from chest X-ray images | tech stack |
-| **[Google Places Clustering](https://github.com/Iwaniukooo11/Google-Places-Clustering)** | Business similarity engine using geospatial data | tech stack |
+| **[ML Diabetes Prediction](https://github.com/Iwaniukooo11/ml-diabetes-prediction)** | Medical risk assessment model with SHAP interpretability | Scikit-learn, SHAP |
+| **[Pneumonia Detection](https://github.com/Iwaniukooo11/deep-learning_x-ray-images-pneumonia)** | CNN/Traditional Ml based diagnosis from chest X-ray images | todo |
+| **[Google Places Clustering](https://github.com/Iwaniukooo11/Google-Places-Clustering)** | Business similarity engine using geospatial data | Scikit-learn, geopy, sentence_transformers |
 
 ---
 
 ## 📈 Math & Data Analysis
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Biometrics - Iris Recognition](https://github.com/Iwaniukooo11/Biometric-Iris-Recognition)** | Biometric identification system using iris patterns | tech stack |
-| **[Algebra in Data Analysis](https://github.com/Iwaniukooo11/algebra-in-data-analysis)** | Linear algebra applications for mathematical operations | tech stack |
-| **[SQL Queries in R](https://github.com/Iwaniukooo11/sql-queries-in-r)** | Database querying and analysis in R | tech stack |
-| **[EDA Planes Safety](https://github.com/Iwaniukooo11/data-analysis-planes-safety)** | Aviation safety trend analysis | Ptech stack |
+| **[Biometrics - Iris Recognition](https://github.com/Iwaniukooo11/Biometric-Iris-Recognition)** | Biometric identification system using iris patterns | numpy, scikit-image, opencv2, dash |
+| **[Algebra in Data Analysis](https://github.com/Iwaniukooo11/algebra-in-data-analysis)** | Linear algebra applications for mathematical operations | SymPy |
+| **[SQL Queries in R](https://github.com/Iwaniukooo11/sql-queries-in-r)** | Database querying and analysis in R | R, dplyr, SQLdf |
+| **[EDA Planes Safety](https://github.com/Iwaniukooo11/data-analysis-planes-safety)** | Aviation safety trend analysis | R, dplyr, ggplot |
 
 ---
 
@@ -34,21 +34,21 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Socket Dashboard](https://github.com/Iwaniukooo11/data-socket-dashboard)** | Real-time data streaming visualization | Ptech stack |
+| **[Socket Dashboard](https://github.com/Iwaniukooo11/data-socket-dashboard)** | Real-time data streaming visualization | Java, JavaFX, FXML Web Sockets |
 | **[API to mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-api)** | Backend for recipe recommendation app | tech stack |
-| **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | Food photo sharing platform | tech stack |
-| **[Mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-app)** | Recipe suggestion app | tech stack |
-| **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | hehe | tech stack |
-| **[Wikipedia Chrome Extension](https://github.com/Iwaniukooo11/random-wikipedia-pages)** | Chrome extension for content discovery | tech stack |
+| **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | Food photo sharing platform | Express, MongoDB, Amazon S3, pug |
+| **[Mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-app)** | Recipe suggestion app | React-Native, styled-components, google-admob, expo |
+| **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | hehe | pynput |
+| **[Wikipedia Chrome Extension](https://github.com/Iwaniukooo11/random-wikipedia-pages)** | Chrome extension for content discovery | React, API |
 
 ---
 ## 🏆 Competition projects
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Cansat - FrontEnd](https://github.com/Iwaniukooo11/trailblazer-page)** | Website of our project | tech stack |
-| **[Cansat Image Finder](https://github.com/Iwaniukooo11/image-finder)** | Algorithm which detects fall trajectory basing on images only | Ptech stack |
-| **[Cansat - 3D probe vizualization ](https://github.com/Iwaniukooo11/cansat_model3d)** | Visualization of proble fall | tech stack |
-| **[Senior Health App](https://github.com/Iwaniukooo11/zdrowy-senior)** | App which supports eldery people, prepared for online hackathon | tech stack |
+| **[Cansat - FrontEnd](https://github.com/Iwaniukooo11/trailblazer-page)** | Website of our project | HTML, CSS, JS, Gulp, Webpack |
+| **[Cansat Image Finder](https://github.com/Iwaniukooo11/image-finder)** | Algorithm which detects fall trajectory basing on images only | OpenCV, Pillow |
+| **[Cansat - 3D probe vizualization ](https://github.com/Iwaniukooo11/cansat_model3d)** | Visualization of proble fall | Three.js, OrbitControlls.js, Chart.js, Firestore |
+| **[Senior Health App](https://github.com/Iwaniukooo11/zdrowy-senior)** | App which supports eldery people, prepared for online hackathon | React Native, tensorflow,  |
                              
 ---
 
