@@ -35,9 +35,9 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
 | **[Socket Dashboard](https://github.com/Iwaniukooo11/data-socket-dashboard)** | Real-time data streaming visualization | Java, JavaFX, FXML Web Sockets |
-| **[API to mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-api)** | Backend for recipe recommendation app | tech stack |
-| **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | Food photo sharing platform | Express, MongoDB, Amazon S3, pug |
 | **[Mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-app)** | Recipe suggestion app | React-Native, styled-components, google-admob, expo |
+| **[API to mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-api)** | Backend for recipe recommendation app | Express, Mongo, bcrypt |
+| **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | Food photo sharing platform | Express, MongoDB, Amazon S3, pug |
 | **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | hehe | pynput |
 | **[Wikipedia Chrome Extension](https://github.com/Iwaniukooo11/random-wikipedia-pages)** | Chrome extension for content discovery | React, API |
 
