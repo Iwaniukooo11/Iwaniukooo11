@@ -12,7 +12,7 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
 | **[Quantum RAG](https://github.com/Iwaniukooo11/QuantumRAG)** | Quantum-enhanced information retrieval system using Grover's algorithm | Qiskit, Hugging Face |
-| **[Computional Intelligence Algorithms](https://github.com/Iwaniukooo11/computional-intelligence-algorithms)** | MLP / KOH / Genetic Algs implemented from scratch | Python, NumPy |
+| **[Computional Intelligence Algorithms](https://github.com/Iwaniukooo11/computional-intelligence-algorithms)** | MLP / Kohonen SOM / Genetic Algs implemented from scratch | Python, NumPy |
 | **[ML Diabetes Prediction](https://github.com/Iwaniukooo11/ml-diabetes-prediction)** | Medical risk assessment model with SHAP interpretability | Scikit-learn, SHAP |
 | **[Pneumonia Detection](https://github.com/Iwaniukooo11/deep-learning_x-ray-images-pneumonia)** | CNN/Traditional Ml based diagnosis from chest X-ray images | todo |
 | **[Google Places Clustering](https://github.com/Iwaniukooo11/Google-Places-Clustering)** | Business similarity engine using geospatial data | Scikit-learn, geopy, sentence_transformers |
