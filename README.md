@@ -22,7 +22,7 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 ## 📈 Math & Data Analysis
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Biometrics - Iris Recognition](https://github.com/Iwaniukooo11/Biometric-Iris-Recognition)** | Biometric identification system using iris patterns | numpy, scikit-image, opencv2, dash |
+| **[Biometrics - Iris Recognition](https://github.com/Iwaniukooo11/Biometric-Iris-Recognition)** | Using Daugman's Algorithm and basic computer vision techniques for iris recognition | numpy, scikit-image, opencv2, dash |
 | **[Algebra in Data Analysis](https://github.com/Iwaniukooo11/algebra-in-data-analysis)** | Linear algebra applications for mathematical operations | SymPy |
 | **[SQL Queries in R](https://github.com/Iwaniukooo11/sql-queries-in-r)** | Database querying and analysis in R | R, dplyr, SQLdf |
 | **[EDA Planes Safety](https://github.com/Iwaniukooo11/data-analysis-planes-safety)** | Aviation safety trend analysis | R, dplyr, ggplot |
@@ -38,14 +38,14 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 | **[Mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-app)** | Recipe suggestion app | React-Native, styled-components, google-admob, expo |
 | **[API to mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-api)** | Backend for recipe recommendation app | Express, Mongo, bcrypt |
 | **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | Food photo sharing platform | Express, MongoDB, Amazon S3, pug |
-| **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | hehe | pynput |
+| **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | A script, which traces keyboard and saves received data in .txt file and posts it into a server | pynput |
 | **[Wikipedia Chrome Extension](https://github.com/Iwaniukooo11/random-wikipedia-pages)** | Chrome extension for content discovery | React, API |
 
 ---
 ## 🏆 Competition projects
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Cansat - FrontEnd](https://github.com/Iwaniukooo11/trailblazer-page)** | Website of our project | HTML, CSS, JS, Gulp, Webpack |
+| **[Cansat - FrontEnd](https://github.com/Iwaniukooo11/trailblazer-page)** | Webpage created for Trailblazer Team taking part in Cansat competition | HTML, CSS, JS, Gulp, Webpack |
 | **[Cansat Image Finder](https://github.com/Iwaniukooo11/image-finder)** | Algorithm which detects fall trajectory basing on images only | OpenCV, Pillow |
 | **[Cansat - 3D probe vizualization ](https://github.com/Iwaniukooo11/cansat_model3d)** | Visualization of proble fall | Three.js, OrbitControlls.js, Chart.js, Firestore |
 | **[Senior Health App](https://github.com/Iwaniukooo11/zdrowy-senior)** | App which supports eldery people, prepared for online hackathon | React Native, tensorflow,  |
