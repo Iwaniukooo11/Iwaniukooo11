@@ -1,79 +1,72 @@
-### <h1 align="center">Hi, I'm Mateusz Iwaniuk - Data Science student at Warsaw University of Technology</h1>  
 
-<br/>
 
-- I work as: Data Analysis & Automation  | AstraZeneca
+# Hi, I'm Mateusz Iwaniuk
 
-- Technologies: R, ggplot, Python, Power BI, Power Automate, Power Apps
+I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-scale systems**, **productionizing AI solutions**, and **optimizing distributed data pipelines**. Whether I'm engineering Python ETL architectures for 6k+ users, developing BERT-based NLP applications, or implementing quantum-enhanced RAG systems - I transform complex data challenges into high-performance solutions.
 
-- Keen on: Linear algebra, Calculus, Graph theory
 
-- Currently learning: Probability, Statistics, Numerical Methods, Advanced OOP
-   
+---
 
-- How to reach me: mateusz.iwaniuk11@gmail.com  
+## 🤖 Machine Learning & AI
+
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Quantum RAG](https://github.com/Iwaniukooo11/QuantumRAG)** | desc | Ptech stack |
+| **[Computional Intelligence Algorithms](https://github.com/Iwaniukooo11/computional-intelligence-algorithms)** | desc | tech stack |
+| **[ML Diabetes Prediction](https://github.com/Iwaniukooo11/ml-diabetes-prediction)** | desc | tech stack |
+| **[Pneumonia Detection](https://github.com/Iwaniukooo11/deep-learning_x-ray-images-pneumonia)** | desc | tech stack |
+| **[Google Places Clustering](https://github.com/Iwaniukooo11/Google-Places-Clustering)** | desc | tech stack |
+
+---
+
+## 📈 Math & Data Analysis
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Biometrics - Iris Recognition](https://github.com/Iwaniukooo11/Biometric-Iris-Recognition)** | desc | tech stack |
+| **[Algebra in Data Analysis](https://github.com/Iwaniukooo11/algebra-in-data-analysis)** | desc | tech stack |
+| **[SQL Queries in R](https://github.com/Iwaniukooo11/sql-queries-in-r)** | desc | tech stack |
+| **[EDA Planes Safety](https://github.com/Iwaniukooo11/data-analysis-planes-safety)** | desc | Ptech stack |
+| **[Pneumonia Detection](https://github.com/Iwaniukooo11/deep-learning_x-ray-images-pneumonia)** | desc | tech stack |
+---
+
+
+## ⚙️ Software projects
+
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Socket Dashboard](https://github.com/Iwaniukooo11/data-socket-dashboard)** | desc | Ptech stack |
+| **[API to mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-api)** | desc | tech stack |
+| **[Instagram clone](https://github.com/Iwaniukooo11/foodgram)** | desc | tech stack |
+| **[Mobile App](https://github.com/Iwaniukooo11/co-by-dzis-zjesc-app)** | desc | tech stack |
+| **[Keylogger](https://github.com/Iwaniukooo11/keylogger)** | desc | tech stack |
+| **[Wikipedia Chrome Extension](https://github.com/Iwaniukooo11/random-wikipedia-pages)** | desc | tech stack |
+
+---
+## 🏆 Competition projects
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Cansat - FrontEnd](https://github.com/Iwaniukooo11/trailblazer-page)** | desc | tech stack |
+| **[Cansat Image Finder](https://github.com/Iwaniukooo11/image-finder)** | desc | Ptech stack |
+| **[Cansat - 3D probe vizualization ](https://github.com/Iwaniukooo11/cansat_model3d)** | desc | tech stack |
+| **[Mobile app for seniors](https://github.com/Iwaniukooo11/zdrowy-senior)** | desc | tech stack |
+                             
+---
+
+## 🌐 Technology Breadth
+
+#### **Core Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+
+#### **Machine Learning**
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
+
+#### **Cloud & BI**
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+
+---
   
+# 🤝 Let’s Connect
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Webdev  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Math & Data Science
-  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="margin: 10px"  height="50"/> </a> 
-  <a href="https://www.sympy.org" rel="noreferrer"> 
-<img src="https://www.sympy.org/static/images/logo.png" height="50"  style="margin: 10px" alt="sympy logo"  /> </a>
-  <a href="https://www.numpy.org" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" style="margin: 10px" alt="numpy logo"  /> </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="margin: 10px" height="50"/> </a>
-  </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Other 
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://th.bing.com/th/id/R.08260e63a1c453f82f5ec1b37e2e6243?rik=D1%2bXU8aEWRyEuA&pid=ImgRaw&r=0" alt="Bash" height="45" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-  <a href="https://www.java.com/en/" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="margin: 10px" alt="java logo"  /> </a> 
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/Iwaniukooo11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,13 +81,4 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwaniukooo11&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
 
