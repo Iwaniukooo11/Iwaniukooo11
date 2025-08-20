@@ -6,7 +6,12 @@ I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-s
 
 
 ---
+## 🔬 Science
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **[Member of National Science Centre grant - Poland OPUS 20 grant no. 2020/39/B/HS4/00941](https://ncn-foreigners.ue.poznan.pl/people/students/iwaniuk.html)** | Designing NMAR Statistical package | R |
 
+---
 ## 🤖 Machine Learning & AI
 
 | Project | Description | Tech Highlights |
