@@ -2,14 +2,17 @@
 
 # Hi, I'm Mateusz Iwaniuk
 
-I'm a Data Engineer and ML Specialist driven by a passion for **building cloud-scale systems**, **productionizing AI solutions**, and **optimizing distributed data pipelines**. Whether I'm engineering Python ETL architectures for 6k+ users, developing BERT-based NLP applications, or implementing quantum-enhanced RAG systems - I transform complex data challenges into high-performance solutions.
+
+Skilled in ML, worked in DE, SWE oriented, contributed to research. Sky is the limit.
 
 
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/iwaniukooo11?theme=dark&font=Abhaya%20Libre&ext=heatmap)
 ---
 ## 🔬 Science
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[Member of National Science Centre grant - Poland OPUS 20 grant no. 2020/39/B/HS4/00941](https://ncn-foreigners.ue.poznan.pl/people/students/iwaniuk.html)** | Designing NMAR Statistical package | R |
+| **[Member of National Science Centre grant - Poland OPUS 20 grant no. 2020/39/B/HS4/00941](https://ncn-foreigners.ue.poznan.pl/NMAR/)** | Designing NMAR Statistical package | R |
 
 ---
 ## 🤖 Machine Learning & AI
