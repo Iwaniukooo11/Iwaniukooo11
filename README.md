@@ -7,8 +7,9 @@ Skilled in ML, worked in DE, SWE oriented, contributed to research. Sky is the l
 
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/iwaniukooo11?theme=dark&font=Abhaya%20Libre&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iwaniukooo11?theme=dark&font=Abhaya%20Libre&ext=heatmap)](https://leetcode.com/iwaniukooo11)
 ---
+
 ## 🔬 Science
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
