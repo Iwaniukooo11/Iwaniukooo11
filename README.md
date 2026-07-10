@@ -1,10 +1,9 @@
 
 
-# Hi, I'm Mateusz Iwaniuk
+# Mateusz Iwaniuk
 
 
-Software Engineer at Google </br>
-Agent2Agent Protocol
+Software Engineer at Google
 
 
 ---
