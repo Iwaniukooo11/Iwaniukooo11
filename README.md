@@ -3,7 +3,8 @@
 # Hi, I'm Mateusz Iwaniuk
 
 
-Skilled in ML, worked in DE, SWE oriented, contributed to research. Sky is the limit.
+Software Engineer at Google
+Agent2Agent Protocol
 
 
 ---
